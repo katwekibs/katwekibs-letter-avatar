@@ -1,5 +1,5 @@
 # katwekibs-letter-avatar
-A simple JavaScript library makes creating letter avatars like that of Google's gmail a piece of cake.
+A simple JavaScript library that makes creating letter avatars like that of Google's gmail a piece of cake.
 
 Just down load the letter avatar file and include it in your HTML files. 
 Before the </body> closing tag of your HTML page, initialize the katweKibsAvatar object like bellow. 
