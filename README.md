@@ -10,7 +10,7 @@ As basic as that code looks, the JavaScript part is almost done. Unless of cours
 
 Now in your HTML page provide a canvas element with a class of "user-icon" and property called "data-name". Just as shown below. 
 
-<canvas class="user-icon" data-name="Chris Brown" width="200" height="200" data-chars="1"></canvas> T
+    <canvas class="user-icon" data-name="Chris Brown" width="200" height="200" data-chars="1"></canvas> T
 
 here are two ways to provide settings for the katwekibs letter avatar. 
 One from the canvas element. 
@@ -38,7 +38,7 @@ a selector can be an id, or a class attribute. For example
     
 Below is the initialization code. 
 Settings provided here are overiden by the settings provided in the canvas element. 
-Take note of spelling dataChars setting in the initialization code, it is different from that of data-chars in the canvas element     
+Take note of spelling dataChars setting in the initialization code, it is different from that of data-chars in the canvas element      
     katweKibsAvatar.init({
         dataChars: 2, 
         width:100, 
